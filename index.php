@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World from Azure!";
+echo "Hello World from Vaishnavi!";
